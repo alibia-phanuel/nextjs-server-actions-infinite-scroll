@@ -1,36 +1,20 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+https://ibb.co/mV7v1Tb3
 
-## Getting Started
+Build Modern Next.js Server-Side App with Server Actions, Infinite Scroll & Framer Motion Animations
 
-First, run the development server:
+Ce projet démontre la création d’une application moderne avec Next.js 14 exploitant les dernières fonctionnalités côté serveur via Server Actions pour une gestion optimisée des données.
+Il intègre un système de défilement infini (Infinite Scroll) pour un chargement fluide du contenu, ainsi que des animations élégantes et performantes avec Framer Motion, offrant une expérience utilisateur dynamique et immersive.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Fonctionnalités clés :
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Rendu côté serveur (SSR) optimisé avec Next.js
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Server Actions pour des opérations côté serveur sans API REST intermédiaire
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Infinite Scroll pour charger le contenu de manière progressive et performante
 
-## Learn More
+Animations fluides avec Framer Motion pour transitions et interactions
 
-To learn more about Next.js, take a look at the following resources:
+Architecture modulaire et maintenable prête pour la production
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Ce projet est pensé pour illustrer des pratiques modernes de développement web et servir de base solide pour des applications scalables et performantes.
