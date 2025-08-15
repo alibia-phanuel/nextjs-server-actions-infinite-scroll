@@ -1,4 +1,4 @@
-![Aperçu de l'application](https://ibb.co/mV7v1Tb3)
+![Aperçu de l'application](https://i.ibb.co/tT5ZkKQ9/Capture-d-cran-825.png)
 
 
 Build Modern Next.js Server-Side App with Server Actions, Infinite Scroll & Framer Motion Animations
